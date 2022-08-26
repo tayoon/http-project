@@ -1,0 +1,6 @@
+GET https://reqres.in/api/users?page=2HTTP/1.1
+Content-Type: application/json
+
+###
+
+https://reqres.in/api/users/2
